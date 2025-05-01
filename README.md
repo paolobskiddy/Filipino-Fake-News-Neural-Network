@@ -4,10 +4,27 @@
 Inspired by a research paper released last 2022 (see at the bottom), I decided to develop a fake news classifier model trained with the same dataset, but is constructed using Neural Networks.
 For this use case, I used Tensorflow.
 
+### Contents
+
 ### Quick Figures:
 
+Train vs Validation Loss
+
+<img src="img/train_val_loss.PNG" alt="Train vs Validation Loss" width="400"/>
+
+Train vs Validation Accuracy
+
+<img src="img/train_val_acc.PNG" alt="Train vs Validation Accuracy" width="400"/>
 
 
+ROC_AUC Curve
+
+<img src="img/ROC_AUC.PNG" alt="ROC Curve" width="400"/>
+
+
+Classification Report (generated through scikit-learn)
+
+<img src="img/class_rep.PNG" alt="Classif_report" width="400"/>
 
 ## Data Source
 The dataset was originally sourced from Huggingface: 
