@@ -8,6 +8,14 @@ For this use case, I used Tensorflow.
 
 ### Quick Figures:
 
+Validation Loss in 10 Folds
+
+<img src="img/loss_kfold.PNG" alt="Train vs Validation Loss" width="400"/>
+
+Validation Accuracy in 10 Folds
+
+<img src="img/acc_kfold.PNG" alt="Train vs Validation Loss" width="400"/>
+
 Train vs Validation Loss
 
 <img src="img/train_val_loss.PNG" alt="Train vs Validation Loss" width="400"/>
